@@ -4,8 +4,7 @@
 
 Hi, I’m DEVwannabe , and apparently I’ve decided to wrestle with **Python** now.
 I’m starting from absolute zero — like, "what even is indentation?" zero — and my goal is to slowly (but surely) level up from printing `Hello World` to maybe automating my life (or at least my assignments).
-If you’re also trying to learn Python, feel free to read through my mess —  
-who knows, you might learn from my mistakes (or at least laugh at them).  
+If you’re also trying to learn Python, feel free to read through my mess... who knows, you might learn from my mistakes (or at least laugh at them).  
 
 
 ---
