@@ -1,8 +1,8 @@
 #input()
 #accepts the user's input
 
-#user_input = input("Enter your name: ") # string type
-#print(f"Hello, {user_input}!")
+user_input = input("Enter your name: ") # string type
+print(f"Hello, {user_input}!")
 
 #def add(a, b):
 #    return a + b
