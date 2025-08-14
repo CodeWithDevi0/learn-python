@@ -21,7 +21,7 @@ If you’re also trying to learn Python, feel free to read through my mess... wh
 ## 🛠️ Current Progress
 
 * ✅ Printed “Hello, World!” (took longer than I’d like to admit).
-* ✅ Learned how to break programs in 17 different ways.
+* ✅ Learned how to break programs in 69 different ways.
 * ⬜ Write functions that don’t confuse me.
 * ⬜ Survive OOP without crying.
 * ⬜ Make small Python projects that work on the **first try** (wishful thinking).
@@ -30,7 +30,7 @@ If you’re also trying to learn Python, feel free to read through my mess... wh
 
 ## 🧰 Tools I Use
 
-* Python 3.x
+* Python (latest... I guess?)
 * VS Code (aka: my battleground)
 * Google and AI (because teachers don’t always explain the “why”).
 
