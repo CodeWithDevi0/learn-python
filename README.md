@@ -49,6 +49,6 @@ If you’re also trying to learn Python, feel free to read through my mess... wh
 
 This repo is basically my Python diary:
 50% experiments, 30% errors, 15% bug collection, and 5% actual working code.
-Stick around — one day you’ll see me automate something impressive (or at least make a snake game).
+Stick around... maybe one day you’ll see me automate something impressive (or at least make a snake game).
 
 ---
